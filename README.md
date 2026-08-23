@@ -44,7 +44,7 @@ Email Validator — Web Development
 
 I'm always happy to connect with fellow developers, discuss Java/backend development, and learn from others.
 
-LinkedIn: https://www.linkedin.com/in/dileep-yajjala-920805215/
+LinkedIn: [profile](https://www.linkedin.com/in/dileep-yajjala-920805215/)
 GitHub: @dileep_yajjala
 
 
